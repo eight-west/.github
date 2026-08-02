@@ -84,8 +84,8 @@ The people who needed them kept paying consultants. 8W Research exists to close
 that gap.
 
 **Aunsh Bandivadekar** — *Lead*
-Electrical and Computer Engineering, UC Davis · Taught a language model to do
-forestry. The forest has not commented ·
+Electrical and Computer Engineering, UC Davis · Argues with language models for
+a living. Win rate improving ·
 [LinkedIn](https://linkedin.com/in/aunsh)
 
 **VKL** — *Network Chief*
