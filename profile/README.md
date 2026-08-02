@@ -76,6 +76,19 @@ no tool.
 
 ---
 
+## Who we are
+
+We started as researchers in grad school, building things that answered a real
+question for people who would never read the paper. The tools stayed in the lab.
+The people who needed them kept paying consultants. 8W Research exists to close
+that gap.
+
+**Aunsh Bandivadekar** — *Founder*
+Built the spatial prediction layers and the agent architecture behind FRED.
+MS, University of California, Davis.
+
+---
+
 ## Repositories
 
 | | |
