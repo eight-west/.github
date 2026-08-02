@@ -83,9 +83,9 @@ question for people who would never read the paper. The tools stayed in the lab.
 The people who needed them kept paying consultants. 8W Research exists to close
 that gap.
 
-**Aunsh Bandivadekar** — *Lead*
+**Aunsh Bandivadekar** — *Lead* </br>
 Electrical and Computer Engineering · Argues with language models for
-a living. Win rate improving ·
+a living ·
 [LinkedIn](https://linkedin.com/in/aunsh)
 
 **Vijeth** — *Network Chief* </br>
