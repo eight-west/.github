@@ -2,60 +2,32 @@
 
 **AI for the fields it skipped.**
 
-Not because the problems are easy, and not because nobody has tried. Because the
-work needed to make them tractable is unglamorous: a decade of domain simulation
-nobody wants to rewrite, spatial data in a dozen incompatible projections, and a
-user who has a question rather than a dataset.
+[![FRED](https://img.shields.io/badge/FRED-biofred.us-c8a96e?style=flat-square)](https://biofred.us)
+[![Docs](https://img.shields.io/badge/docs-docs.biofred.us-8aab87?style=flat-square)](https://docs.biofred.us)
+[![Licence](https://img.shields.io/badge/licence-PolyForm%20Noncommercial-6b7f4a?style=flat-square)](https://polyformproject.org/licenses/noncommercial/1.0.0)
+[![Contact](https://img.shields.io/badge/contact-contact%40biofred.us-2c4a3a?style=flat-square)](mailto:contact@biofred.us)
+
+Skipped not because the problems are easy, and not because nobody has tried, but
+because the work needed to make them tractable is unglamorous: a decade of domain
+simulation nobody wants to rewrite, spatial data in a dozen incompatible
+projections, and a user who has a question rather than a dataset.
 
 ---
 
 ## Why these fields
 
-The interesting gap is not model capability. Frontier models are already good
-enough for most of what forestry, land management, agriculture and public
-utilities actually need.
+The gap here is not model capability. It is that **the answer does not exist
+until someone computes it**. Ask which forest stands can supply a power plant at
+a workable cost and no document holds the answer — it has to be produced, from
+terrain, roads, harvest economics and fire risk.
 
-The gap is that in these fields **the answer does not exist until someone
-computes it**. Ask which forest stands can supply a power plant at a workable
-cost and no document contains the answer. It has to be produced — from terrain,
-from road networks, from harvest economics, from fire risk — by models that take
-minutes to hours to run, over data measured in hundreds of millions of rows.
+So retrieval over documents has nothing to retrieve. We do retrieval over
+*computation*: precompute the expensive surfaces, index them spatially, and let
+an agent compose them at conversational speed.
 
-So retrieval over documents fails. There is nothing to retrieve. What is needed
-is retrieval over *computation*: precompute the expensive surfaces, index them
-spatially, and let an agent compose them at conversational speed.
-
-That is what we build.
-
-The people who need these answers are planners, agency staff, cooperatives and
-small operators. They do not have a GIS team. Today the answer costs a
-consulting engagement and several weeks. It should cost a sentence.
-
----
-
-## What we have built
-
-**[FRED](https://biofred.us)** — conversational decision support for forest
-biomass procurement in California. Ask where to site a facility, what it will
-cost to feed it, and how much wildfire risk the harvest removes. Get a sited
-location, a cost-optimal supply curve and a map, in about the time it takes to
-read the question.
-
-| | |
-|---|---|
-| Statewide harvest-cost predictions | **166 million** |
-| Forest clusters indexed in PostGIS | **3.1 million** |
-| Pre-computed truck routes | **445,000** |
-| Cost surrogate accuracy | **R² 0.9965**, ~5,479× faster than the simulator |
-
-That surrogate is the pattern in miniature. The underlying model, FRCS, is a
-well-validated harvest-cost simulator that is far too slow to sit inside a
-conversation. Learning it to R² 0.9965 turns a batch process into something a
-person can interrogate — without discarding the domain science it encodes.
-
-The architecture behind it, **Compositional Spatial RAG**, generalises past
-forestry. Any field with expensive spatial models and non-technical decision
-makers has the same shape.
+The people asking are planners, agency staff and small operators without a GIS
+team. Today the answer costs a consulting engagement and several weeks. It
+should cost a sentence.
 
 ---
 
@@ -83,16 +55,16 @@ question for people who would never read the paper. The tools stayed in the lab.
 The people who needed them kept paying consultants. 8W Research exists to close
 that gap.
 
-**Aunsh Bandivadekar** — *Lead* </br>
+**Aunsh Bandivadekar** — *Lead* <br>
 Electrical and Computer Engineering · Argues with language models for
 a living ·
 [LinkedIn](https://linkedin.com/in/aunsh)
 
-**Vijeth** — *Network Chief* </br>
+**Vijeth** — *Network Chief* <br>
 Computer Science · Blames DNS. Has yet to be wrong ·
 [LinkedIn](https://www.linkedin.com/in/vijethkl)
 
-**Parth** — *Chem Wizard* </br>
+**Parth** — *Chem Wizard* <br>
 Chemical Engineering · Insists it is all chemistry underneath. Annoyingly, it usually is ·
 [LinkedIn](https://www.linkedin.com/in/parth-bandivadekar)
 
