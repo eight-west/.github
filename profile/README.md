@@ -84,17 +84,17 @@ The people who needed them kept paying consultants. 8W Research exists to close
 that gap.
 
 **Aunsh Bandivadekar** — *Lead*
-Electrical and Computer Engineering, UC Davis · Argues with language models for
+Electrical and Computer Engineering · Argues with language models for
 a living. Win rate improving ·
 [LinkedIn](https://linkedin.com/in/aunsh)
 
-**VKL** — *Network Chief*
+**Vijeth** — *Network Chief* </br>
 Computer Science · Blames DNS. Has yet to be wrong ·
-[LinkedIn](https://linkedin.com/in/vkl)
+[LinkedIn](https://www.linkedin.com/in/vijethkl)
 
-**Parth** — *Chem Wizard*
-Chemistry · Insists it is all chemistry underneath. Annoyingly, it usually is ·
-[LinkedIn](https://linkedin.com/in/parth)
+**Parth** — *Chem Wizard* </br>
+Chemical Engineering · Insists it is all chemistry underneath. Annoyingly, it usually is ·
+[LinkedIn](https://www.linkedin.com/in/parth-bandivadekar)
 
 ---
 
