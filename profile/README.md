@@ -84,16 +84,16 @@ The people who needed them kept paying consultants. 8W Research exists to close
 that gap.
 
 **Aunsh Bandivadekar** — *Lead*
-Electrical and Computer Engineering, UC Davis · Built the spatial prediction
-layers and the agent architecture behind FRED · [LinkedIn](https://linkedin.com/in/aunsh)
+Electrical and Computer Engineering, UC Davis · Taught a language model to do
+forestry. The forest has not commented ·
+[LinkedIn](https://linkedin.com/in/aunsh)
 
 **VKL** — *Network Chief*
-Computer Science · Keeps the network from falling over ·
+Computer Science · Blames DNS. Has yet to be wrong ·
 [LinkedIn](https://linkedin.com/in/vkl)
 
 **Parth** — *Chem Wizard*
-Chemistry · Maintains that every hard problem is a chemistry problem, and is
-usually right ·
+Chemistry · Insists it is all chemistry underneath. Annoyingly, it usually is ·
 [LinkedIn](https://linkedin.com/in/parth)
 
 ---
