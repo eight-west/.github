@@ -1,6 +1,6 @@
 # 8W Research
 
-**We build decision tools for fields that machine learning has largely skipped.**
+**AI for the fields it skipped.**
 
 Not because the problems are easy, and not because nobody has tried. Because the
 work needed to make them tractable is unglamorous: a decade of domain simulation
