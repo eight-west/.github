@@ -83,9 +83,18 @@ question for people who would never read the paper. The tools stayed in the lab.
 The people who needed them kept paying consultants. 8W Research exists to close
 that gap.
 
-**Aunsh Bandivadekar** — *Founder*
-Built the spatial prediction layers and the agent architecture behind FRED.
-MS, University of California, Davis.
+**Aunsh Bandivadekar** — *Lead*
+Electrical and Computer Engineering, UC Davis · Built the spatial prediction
+layers and the agent architecture behind FRED · [LinkedIn](https://linkedin.com/in/aunsh)
+
+**VKL** — *Network Chief*
+Computer Science · Keeps the network from falling over ·
+[LinkedIn](https://linkedin.com/in/vkl)
+
+**Parth** — *Chem Wizard*
+Chemistry · Maintains that every hard problem is a chemistry problem, and is
+usually right ·
+[LinkedIn](https://linkedin.com/in/parth)
 
 ---
 
