@@ -55,20 +55,6 @@ question for people who would never read the paper. The tools stayed in the lab.
 The people who needed them kept paying consultants. 8W Research exists to close
 that gap.
 
-**Aunsh Bandivadekar** — *AI Conductor* <br>
-Electrical and Computer Engineering · Argues with language models for
-a living ·
-[LinkedIn](https://linkedin.com/in/aunsh)
-
-**Vijeth** — *Network Chief* <br>
-Computer Science · Blames DNS. Has yet to be wrong ·
-[LinkedIn](https://www.linkedin.com/in/vijethkl)
-
-**Parth** — *Chem Wizard* <br>
-Chemical Engineering · Insists it is all chemistry underneath. Annoyingly, it usually is ·
-[LinkedIn](https://www.linkedin.com/in/parth-bandivadekar)
-
----
 
 ## Repositories
 
