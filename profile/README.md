@@ -2,10 +2,6 @@
 
 **AI for the fields it skipped.**
 
-[![FRED](https://img.shields.io/badge/FRED-biofred.us-c8a96e?style=flat-square)](https://biofred.us)
-[![Docs](https://img.shields.io/badge/docs-docs.biofred.us-8aab87?style=flat-square)](https://docs.biofred.us)
-[![Licence](https://img.shields.io/badge/licence-PolyForm%20Noncommercial-6b7f4a?style=flat-square)](https://polyformproject.org/licenses/noncommercial/1.0.0)
-[![Contact](https://img.shields.io/badge/contact-contact%40biofred.us-2c4a3a?style=flat-square)](mailto:contact@biofred.us)
 
 Skipped not because the problems are easy, and not because nobody has tried, but
 because the work needed to make them tractable is unglamorous: a decade of domain
